@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\bin\Debug\net6.0\ExercicioSequencia5.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\bin\Debug\net6.0\ExercicioSequencia5.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\bin\Debug\net6.0\ExercicioSequencia5.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\bin\Debug\net6.0\ExercicioSequencia5.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\bin\Debug\net6.0\ExercicioSequencia5.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\refint\ExercicioSequencia5.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ExercicioSequencia5.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExercicioSequencia5\obj\Debug\net6.0\ref\ExercicioSequencia5.dll

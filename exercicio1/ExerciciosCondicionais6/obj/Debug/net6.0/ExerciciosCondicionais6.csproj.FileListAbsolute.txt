@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\bin\Debug\net6.0\ExerciciosCondicionais6.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\bin\Debug\net6.0\ExerciciosCondicionais6.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\bin\Debug\net6.0\ExerciciosCondicionais6.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\bin\Debug\net6.0\ExerciciosCondicionais6.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\bin\Debug\net6.0\ExerciciosCondicionais6.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\refint\ExerciciosCondicionais6.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ExerciciosCondicionais6.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\exercicio1\ExerciciosCondicionais6\obj\Debug\net6.0\ref\ExerciciosCondicionais6.dll
